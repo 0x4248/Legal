@@ -1,6 +1,7 @@
 # Privacy Policy
 
 **Effective Date**: 25th September 2024
+**Last Updated**: 04th October 2024
 
 This Privacy Policy outlines how my services and software may collect, use, and store data. By using my services and software, you agree to the terms outlined in this Privacy Policy.
 
@@ -38,7 +39,7 @@ I do not share any data collected with third parties.
 
 ### 2.4 Cookies
 
-My website may use cookies to store information about your preferences. No personal information is stored in cookies.
+My website may use cookies to store information about your preferences but this is very rare. No personal information is stored in cookies. Cloudflare may put cookies onto my website.
 
 ## 3. Data Retention
 
