@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date**: 25th September 2024
-**Last Updated**: 04th October 2024
+**Last Updated**: 19th October 2024
 
 This Privacy Policy outlines how my services and software may collect, use, and store data. By using my services and software, you agree to the terms outlined in this Privacy Policy.
 
@@ -19,6 +19,9 @@ This data is primarily collected by Cloudflare.
 ## 2. Use of Information
 
 Data collection is used for the following purposes:
+- Analytics
+- Security
+- Improving Services
 
 ### 2.1 Analytics
 
@@ -39,7 +42,7 @@ I do not share any data collected with third parties.
 
 ### 2.4 Cookies
 
-My website may use cookies to store information about your preferences but this is very rare. No personal information is stored in cookies. Cloudflare may put cookies onto my website.
+My website may use cookies to store information about your preferences but this is very rare. No personal information is stored in cookies. Cloudflare, Google (YouTube) and github may put third-party cookies on your device. These cookies may be put on your device if you accepted them on the third-party website.
 
 ## 3. Data Retention
 

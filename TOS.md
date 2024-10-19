@@ -1,9 +1,13 @@
 # Terms of service
 
 **Effective Date**: 25th September 2024
-**Last Updated**: 04th October 2024
+**Last Updated**: 19th October 2024
 
-This document outlines the terms of service for the use of my services and software. These terms also apply to any products under my username.
+This document outlines the terms of service for the use of my services and software. These terms also apply to any products under my username and organizations that I own on github.
+
+These include:
+- 0x4248
+- FurSoftLabs (Also known as FurSoft)
 
 ## 1. Acceptance of Terms
 
